@@ -94,6 +94,6 @@ for index, value in enumerate(usuario):
 
 print(f'a media é: {media}')
 
-plt.figure(figsize=(100, 200))
-plt.bar()
-plt.show()
+plt.figure(figsize=(18, 5))
+plt.bar(nome, idade)
+plt.title('Nome e Idade')
