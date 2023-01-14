@@ -1,4 +1,4 @@
-# Data Expert Python
+# Dynamics - Data: 14/01/2023
 ## Ambiente virtual e Dependências:
 Criando ambiente virtual:
 ```

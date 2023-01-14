@@ -1,4 +1,4 @@
-# Data Expert Python
+# Dina Python
 ## Ambiente virtual e Dependências:
 Criando ambiente virtual:
 ```
