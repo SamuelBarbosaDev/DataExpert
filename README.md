@@ -1,49 +1,22 @@
 # Data Expert Python
-## Ambiente virtual e Dependências:
-Criando ambiente virtual:
-```
-python3 -m venv core/venv
-```
-
-Entrando no ambiente virtual:
-```
-source core/venv/bin/activate
-```
-
-Instale as dependências:
-```
-pip install -r core/requirements.txt
-```
-
-
 ## Objetivo:
-
-Criar uma planilha cripto, onde mostre às 100 principais criptomoedas.
-
+Documentar o que estou estudando na formação em dados pela [Escola DNC](https://www.linkedin.com/school/escoladnc/mycompany/).
 
 ## Como Funciona:
-
-Basicamente, consumo a API do CoinMarketingCap,
-depois uso a Lib openpyxl para construir uma planilha
-com as informações retornadas.
+Organizei pastas com temas específicos, exemplo, dinâmicas, atividades e projetos.
 
 
 ## Observação:
-
-É necessário que você crie uma conta no [CoinMarketCap API](https://pro.coinmarketcap.com/login/)
-para ter acesso ao token de usuário.
+Em cada projeto deve ser criado um ambiente virtual, e, posteriormente, instalado as Libs descritas no arquivo requirements.txt.
 
 
 ## O que aprendi:
-
-Aprendi muito sobre a API do CoinMarketCap.
-
-
-## Tecnologias utilizadas:
-
-openpyxl| requests  | python-decouple | python
- ------ | --------- | --------------- | ---------
- 3.0.10 | 2.28.1    | 3.6             | 3.10.6
+- [Escola DNC](https://www.linkedin.com/school/escoladnc/mycompany/)
+    - Python
+    - Pandas
+    - Numpy
+    - Power Bi
+    - SQL
 
 ---
 Linkedin: <https://www.linkedin.com/in/samuel-barbosa-dev/> 

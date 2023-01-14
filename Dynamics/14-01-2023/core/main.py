@@ -1,7 +1,11 @@
-import numpy as np
 import matplotlib.pyplot as plt
 
 usuario = {
+    'Samuel Barbosa': {
+        'nome': 'Samuel Barbosa',
+        'idade': 19,
+        'salario': 300000,
+    },
     'Hugo Araújo': {
         'nome': 'Hugo Araújo',
         'idade': 28,
@@ -43,8 +47,32 @@ usuario = {
         'salario': 25000,
     }
 }
+nome = [
+    'Samuel Barbosa',
+    'Hugo Araújo',
+    'Laissa Padilha',
+    'Murilo Cechin',
+    'Agostinho José',
+    'Filipe Tavares',
+    'Moisés Nascimento',
+    'Pedro Beghelli',
+    'Alexandre Kuroda',
+]
 
-media_lista = [
+idade = [
+    19,
+    28,
+    31,
+    24,
+    22,
+    32,
+    32,
+    27,
+    33,
+]
+
+salario = [
+    300000,
     15000,
     10000,
     10000,
@@ -55,7 +83,7 @@ media_lista = [
     25000
 ]
 
-media = sum(media_lista) / len(media_lista)
+media = sum(salario) / len(salario)
 
 for index, value in enumerate(usuario):
     print(f"""
@@ -67,4 +95,5 @@ for index, value in enumerate(usuario):
 print(f'a media é: {media}')
 
 plt.figure(figsize=(100, 200))
-plt.title('meu título')
+plt.bar()
+plt.show()
