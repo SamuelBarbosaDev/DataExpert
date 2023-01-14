@@ -26,9 +26,7 @@ seguintes questões:
 
 
 ## Como Funciona:
-Basicamente, consumo a API do CoinMarketingCap,
-depois uso a Lib openpyxl para construir uma planilha
-com as informações retornadas.
+Basicamente, coleto os dados dos alunos, imprimo seus nomes, idades e pretensões salariais, e, crio um gráfico baseado nessa informações.
 
 
 ## O que aprendi:
