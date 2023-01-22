@@ -1,4 +1,20 @@
 # Data Expert Python
+## Ambiente virtual e Dependências:
+Criando ambiente virtual:
+```
+python3 -m venv core/venv
+```
+
+Entrando no ambiente virtual:
+```
+source core/venv/bin/activate
+```
+
+Instale as dependências:
+```
+pip install -r core/requirements.txt
+```
+
 ## Objetivo:
 Documentar o que estou estudando na formação em dados pela [Escola DNC](https://www.linkedin.com/school/escoladnc/mycompany/).
 
