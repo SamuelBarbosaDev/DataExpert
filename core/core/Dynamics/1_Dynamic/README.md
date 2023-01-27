@@ -1,21 +1,4 @@
-# Dynamics - Data: 14/01/2023
-## Ambiente virtual e Dependências:
-Criando ambiente virtual:
-```
-python3 -m venv venv
-```
-
-Entrando no ambiente virtual:
-```
-source venv/bin/activate
-```
-
-Instale as dependências:
-```
-pip install -r requirements.txt
-```
-
-
+# Dynamic - Data: 14/01/2023
 ## Objetivo:
 Colete os nomes e idades de cada pessoa, crie uma lista para a 
 Idade e uma para os nomes, em seguida monte os códigos das 
