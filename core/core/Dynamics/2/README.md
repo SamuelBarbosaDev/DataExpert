@@ -27,9 +27,9 @@ desemprego  por quantidade de vendas.
 
 
 ## Tecnologias utilizadas:
- seaborn  | matplotlib | python
- -------- | ---------- | ---------
- 0.12.2   |    3.5.1   | 3.10.6
+ seaborn  | pandas | python
+ -------- | ------ | ---------
+ 0.12.2   |  1.5.3 | 3.10.6
 
 ---
 Linkedin: <https://www.linkedin.com/in/samuel-barbosa-dev/> 
