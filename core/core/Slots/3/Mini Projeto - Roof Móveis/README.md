@@ -32,47 +32,27 @@ Agora em relação aos dados, seria mais simples se tivessímos acesso ao valor 
 
 ## Metricas de avaliação do imôvel:
 
-1. Localização, o imôvel é bem localizado? 
+1. Localização, o imôvel deve está em uma das 10 cidades mais populosas de Washington.
 
-2. Preço, Em comparação aos imôveis nessa região o preço é compativel? Está acima? Está abaixo? porque o preço está como está?
+2. Valor do ft2 (pé quadrado), deve ser menor que a média da cidade.
 
-3. Publico alvo, quem é nosso publico alvo? Casais sem filhos, solteiros, Casais com filhos ou estudantes.
+3. Preço, deve ser menor que a média da cidade.
 
-4. Condição do imôvel, de 1 a 5, qual é a condição do imôvel?
+4. Condição do imôvel, a condição do deve ser 5.
 
-5. Quantidade de quartos.
+5. Tamanho do terreno, deve ser maior que a média da cidade
 
-6. Quantidade de banheiros.
+6. Quantidade de quartos, deve ser maior que a média da cidade.
 
-7. Tamanho de área habitável.
+7. Quantidade de banheiros, deve ser maior que a média da cidade.
 
-8. Tamanho do terreno.
-
-9. Ano de construção.
-
-10. Ano de restauração.
-
-11. Média da área habitável dos 15 imóveis mais próximos.
-
-12. Média da área do lote dos 15 imóveis mais próximos.
+8. Ano de construção, deve ser maior que 1980.
 
 ## Insights técnicos da análise:
 
 1. Quando comecei a analisar os dados me deparei com a coluna `bathrooms`, nela observei que avia informações de casas com, por exemplo, 2.25, 4.50, 1.75 banheiros, o que não faz sentindo para a minha análise, então optei por convertê-las em inteiros.
 
 2. Logo após me deparar com a situação da coluna `bathrooms`, encontrei algo semelhante na coluna `floors`, por exemplo, casas com 1.5, 2.5, 3.5 andares, na coluna `floors` encontrando o número de andares de uma casa, portanto, optei por convertê-las em inteiros.
-
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
-
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~html
-Esta é uma linha de código em HTML.
-~~~
 
 ---
 Linkedin: <https://www.linkedin.com/in/samuel-barbosa-dev/> 
