@@ -7,16 +7,16 @@ Com tudo isso em mente iniciamos as análises, e concluímos quais os 5 imóveis
 ## 5 imóveis que deveria investir:
 1. > O imóvel de ID: 2144800146 está localizado em Seattle, o mesmo está sendo vendido por 257500.0 é o valor do pé quadrado é 27.587315191772017, o tamanho do terreno é 9334, ele tem 3 quarto(s) e 2 banheiro(s), por fim sua área habitável é de 1300.
 2. > O imóvel de ID: 3348401382 está localizado em Seattle, o mesmo está sendo vendido por 318000.0 é o valor do pé quadrado é 25.11451587426947, o tamanho do terreno é 12662, ele tem 3 quarto(s) e 2 banheiro(s), por fim sua área habitável é de 1690.
-3. > O imóvel de ID: 4022902715 está localizado em Seattle, o mesmo está sendo vendido por 525000.0 é o valor do pé quadrado é 51.08494696895981, o tamanho do terreno é 10277, ele tem 5 quarto(s) e 3 banheiro(s), por fim sua área habitável é de 2480.
-4. > O imóvel de ID: 5067400032 está localizado em Seattle, o mesmo está sendo vendido por 550000.0 é o valor do pé quadrado é 38.19444444444444, o tamanho do terreno é 14400, ele tem 3 quarto(s) e 2 banheiro(s), por fim sua área habitável é de 3070.
-5. > O imóvel de ID: 9485950310 está localizado em Kent, o mesmo está sendo vendido por 610000.0 é o valor do pé quadrado é 16.460683253278646, o tamanho do terreno é 37058, ele tem 4 quarto(s) e 3 banheiro(s), por fim sua área habitável é de 5450.
+3. > O imóvel de ID: 2826049260 está localizado em Seattle, o mesmo está sendo vendido por 482500.0 é o valor do pé quadrado é 63.270390768423816, o tamanho do terreno é 7626, ele tem 4 quarto(s) e 3 banheiro(s), por fim sua área habitável é de 1630.
+4. > O imóvel de ID: 4022902715 está localizado em Seattle, o mesmo está sendo vendido por 525000.0 é o valor do pé quadrado é 51.08494696895981, o tamanho do terreno é 10277, ele tem 5 quarto(s) e 3 banheiro(s), por fim sua área habitável é de 2480.
+5. > O imóvel de ID: 5067400032 está localizado em Seattle, o mesmo está sendo vendido por 550000.0 é o valor do pé quadrado é 38.19444444444444, o tamanho do terreno é 14400, ele tem 3 quarto(s) e 2 banheiro(s), por fim sua área habitável é de 3070.
 
 ## 5 imóveis que NÃO deveria investir:
 1. > O imóvel de ID: 3523029059 está localizado em Vashon, o mesmo está sendo vendido por 181000.0 é o valor do pé quadrado é 16.748403812343852, o tamanho do terreno é 10807, ele tem 2 quarto(s) e 1 banheiro(s), por fim sua área habitável é de 1560.
-2. > O imóvel de ID: 1771100330 está localizado em Woodinville, o mesmo está sendo vendido por 250000.0 é o valor do pé quadrado é 24.075500770416024, o tamanho do terreno é 10384, ele tem 3 quarto(s) e 2 banheiro(s), por fim sua área habitável é de 1510.
+2. > O imóvel de ID: 913000340 está localizado em Seattle, o mesmo está sendo vendido por 252000.0 é o valor do pé quadrado é 153.84615384615384, o tamanho do terreno é 1638, ele tem 1 quarto(s) e 1 banheiro(s), por fim sua área habitável é de 680.
 3. > O imóvel de ID: 9407110710 está localizado em North Bend, o mesmo está sendo vendido por 322000.0 é o valor do pé quadrado é 38.333333333333336, o tamanho do terreno é 8400, ele tem 3 quarto(s) e 1 banheiro(s), por fim sua área habitável é de 1510.
-4. > O imóvel de ID: 3885808035 está localizado em Kirkland, o mesmo está sendo vendido por 619500.0 é o valor do pé quadrado é 119.0888119953864, o tamanho do terreno é 5202, ele tem 6 quarto(s) e 1 banheiro(s), por fim sua área habitável é de 1680.
-5. > O imóvel de ID: 2767604170 está localizado em Seattle, o mesmo está sendo vendido por 975000.0 é o valor do pé quadrado é 195.0, o tamanho do terreno é 5000, ele tem 3 quarto(s) e 3 banheiro(s), por fim sua área habitável é de 1850.
+4. > O imóvel de ID: 2028700265 está localizado em Seattle, o mesmo está sendo vendido por 505000.0 é o valor do pé quadrado é 132.33752620545073, o tamanho do terreno é 3816, ele tem 2 quarto(s) e 1 banheiro(s), por fim sua área habitável é de 1310.
+5. > O imóvel de ID: 4083802195 está localizado em Seattle, o mesmo está sendo vendido por 578888.0 é o valor do pé quadrado é 144.722, o tamanho do terreno é 4000, ele tem 2 quarto(s) e 2 banheiro(s), por fim sua área habitável é de 1060.
 
 ## Observações:
 Primeiro, para obtermos uma análise mais precisa precisamos saber qual o objetivo da compra do imóvel, revenda? Aluguel? Quem é o público alvo? Casais sem filhos? Casais com filhos? Solteiros? Ou Estudantes. Que tipo de imóvel estamos buscando? De alto padrão? Populares? Qual o valor máximo do investimento?
