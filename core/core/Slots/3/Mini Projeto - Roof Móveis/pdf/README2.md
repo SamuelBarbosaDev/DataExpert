@@ -5,18 +5,18 @@ Primeiramente, definimos o público-alvo como casais com filhos. Em seguida, det
 Com tudo isso em mente, iniciamos as análises e concluímos quais os cinco imóveis que deveriam ser investidos e por quê, e quais cinco não recomendaríamos o investimento de jeito nenhum.
 
 ## Os 5 imóveis que deveriam ser investidos:
-1. > O imóvel de ID: 2144800146 está localizado em Seattle, sendo vendido por $257500.0 com valor do pé quadrado de $27.587315191772017, tamanho do terreno de 9334, 3 quarto(s) e 2 banheiro(s), com área habitável de 1300.
-2. > O imóvel de ID: 3348401382 está localizado em Seattle, sendo vendido por $318000.0 com valor do pé quadrado de $25.11451587426947, tamanho do terreno de 12662, 3 quarto(s) e 2 banheiro(s), com área habitável de 1690.
-3. > O imóvel de ID: 2826049260 está localizado em Seattle, sendo vendido por $482500.0 com valor do pé quadrado de $63.270390768423816, tamanho do terreno de 7626, 4 quarto(s) e 3 banheiro(s), com área habitável de 1630.
-4. > O imóvel de ID: 4022902715 está localizado em Seattle, sendo vendido por $525000.0 com valor do pé quadrado de $51.08494696895981, tamanho do terreno de 10277, 5 quarto(s) e 3 banheiro(s), com área habitável de 2480.
-5. > O imóvel de ID: 5067400032 está localizado em Seattle, sendo vendido por $550000.0 com valor do pé quadrado de $38.19444444444444, tamanho do terreno de 14400, 3 quarto(s) e 2 banheiro(s), com área habitável de 3070.
+1. > O imóvel de ID: 2144800146 está localizado em Seattle, o mesmo está sendo vendido por 257500.0 é o valor do pé quadrado é 27.587315191772017, o tamanho do terreno é 9334, ele tem 3 quarto(s) e 2 banheiro(s), por fim sua área habitável é de 1300.
+2. > O imóvel de ID: 3348401382 está localizado em Seattle, o mesmo está sendo vendido por 318000.0 é o valor do pé quadrado é 25.11451587426947, o tamanho do terreno é 12662, ele tem 3 quarto(s) e 2 banheiro(s), por fim sua área habitável é de 1690.
+3. > O imóvel de ID: 2826049260 está localizado em Seattle, o mesmo está sendo vendido por 482500.0 é o valor do pé quadrado é 63.270390768423816, o tamanho do terreno é 7626, ele tem 4 quarto(s) e 3 banheiro(s), por fim sua área habitável é de 1630.
+4. > O imóvel de ID: 4022902715 está localizado em Seattle, o mesmo está sendo vendido por 525000.0 é o valor do pé quadrado é 51.08494696895981, o tamanho do terreno é 10277, ele tem 5 quarto(s) e 3 banheiro(s), por fim sua área habitável é de 2480.
+5. > O imóvel de ID: 5067400032 está localizado em Seattle, o mesmo está sendo vendido por 550000.0 é o valor do pé quadrado é 38.19444444444444, o tamanho do terreno é 14400, ele tem 3 quarto(s) e 2 banheiro(s), por fim sua área habitável é de 3070.
 
-## Os 5 imóveis que NÃO deveriam ser investidos::
-1. > O imóvel de ID: 3523029059 está localizado em Vashon, sendo vendido por $181000.0 com valor do pé quadrado de $16.748403812343852, tamanho do terreno de 10807, 2 quarto(s) e 1 banheiro(s), com área habitável de 1560.
-2. > O imóvel de ID: 913000340 está localizado em Seattle, sendo vendido por $252000.0 com valor do pé quadrado de $153.84615384615384, tamanho do terreno de 1638, 1 quarto(s) e 1 banheiro(s), com área habitável de 680.
-3. > O imóvel de ID: 9407110710 está localizado em North Bend, sendo vendido por $322000.0 com valor do pé quadrado de $38.333333333333336, tamanho do terreno de 8400, 3 quarto(s) e 1 banheiro(s), com área habitável de 1510.
-4. > O imóvel de ID: 2028700265 está localizado em Seattle, sendo vendido por $505000.0 com valor do pé quadrado de $132.33752620545073, tamanho do terreno de 3816, 2 quarto(s) e 1 banheiro(s), com área habitável de 1310.
-5. > O imóvel de ID: 4083802195 está localizado em Seattle, sendo vendido por $578888.0 com valor do pé quadrado de $144.722, tamanho do terreno de 4000, 2 quarto(s) e 2 banheiro(s), com área habitável de 1060.
+## Os 5 imóveis que NÃO deveriam ser investidos:
+1. > O imóvel de ID: 3523029059 está localizado em Vashon, o mesmo está sendo vendido por 181000.0 é o valor do pé quadrado é 16.748403812343852, o tamanho do terreno é 10807, ele tem 2 quarto(s) e 1 banheiro(s), por fim sua área habitável é de 1560.
+2. > O imóvel de ID: 913000340 está localizado em Seattle, o mesmo está sendo vendido por 252000.0 é o valor do pé quadrado é 153.84615384615384, o tamanho do terreno é 1638, ele tem 1 quarto(s) e 1 banheiro(s), por fim sua área habitável é de 680.
+3. > O imóvel de ID: 9407110710 está localizado em North Bend, o mesmo está sendo vendido por 322000.0 é o valor do pé quadrado é 38.333333333333336, o tamanho do terreno é 8400, ele tem 3 quarto(s) e 1 banheiro(s), por fim sua área habitável é de 1510.
+4. > O imóvel de ID: 2028700265 está localizado em Seattle, o mesmo está sendo vendido por 505000.0 é o valor do pé quadrado é 132.33752620545073, o tamanho do terreno é 3816, ele tem 2 quarto(s) e 1 banheiro(s), por fim sua área habitável é de 1310.
+5. > O imóvel de ID: 4083802195 está localizado em Seattle, o mesmo está sendo vendido por 578888.0 é o valor do pé quadrado é 144.722, o tamanho do terreno é 4000, ele tem 2 quarto(s) e 2 banheiro(s), por fim sua área habitável é de 1060.
 
 ## Observações:
 Para obtermos uma análise mais precisa, é necessário definir qual é o objetivo da compra do imóvel: revenda, aluguel ou uso próprio. Além disso, é importante identificar o público-alvo, como casais sem filhos, casais com filhos, solteiros ou estudantes. Também é necessário definir o tipo de imóvel desejado, se é de alto padrão ou popular, e qual o valor máximo do investimento.
