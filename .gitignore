@@ -132,3 +132,4 @@ dmypy.json
 #outro
 .~lock.Colab de Numpy.pptx#
 *.zip
+.mypy_cache
